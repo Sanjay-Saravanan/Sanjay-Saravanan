@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning, NLP, Hybrid platform app development (React Native)**
 
-- 👯 I’m looking to learning on **Reinforcement Learning, ML-Integrated Web Apps, React Native, MLOps**
+- 👯 I’m looking to learning on **Reinforcement Learning, ML-Integrated Web Apps, MLOps**
 
 - 💬 Ask me about **Python, TensorFlow, PyTorch and more ML Stuffs.**
 
