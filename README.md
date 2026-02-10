@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sanjay.saravanan0204@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1q8IIWjxre6UZq5Xsm77qa81Pfqo4nmqi/view?usp=sharing](https://drive.google.com/file/d/1q8IIWjxre6UZq5Xsm77qa81Pfqo4nmqi/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1XLlFW4oOzg1wKB7C04qSBBcneBU7IKQT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
