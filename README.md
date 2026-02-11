@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sanjay</h1>
-<h3 align="center">A passionate and aspiring ML/AI developer from India</h3>
+<h3 align="center">A passionate and aspiring AI/ML developer from India</h3>
 
-- 🔭 I’m currently working on **Machine Learning, Deep Learning, NLP, Computer Vision and ML Frameworks**
+- 🔭 I’m currently working on **NLP, RAG Systems and GenAI**
 
-- 🌱 I’m currently learning **Deep Learning, NLP, Hybrid platform app development (React Native)**
+- 🌱 I’m currently learning **Computer Vision, Natural Language Processing and Generative AI**
 
 - 👯 I’m looking to learning on **Reinforcement Learning, ML-Integrated Web Apps, MLOps**
 
